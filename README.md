@@ -5,7 +5,7 @@
 
 Задания 2-3. См файлы task2.xlsx, task3.xlsx
 
-График фугкции Задания 1,2
+График функции Задания 1,2
 ![image](https://user-images.githubusercontent.com/90501009/233178080-ad096925-021c-4926-8b57-15132be570aa.png)
 
 
